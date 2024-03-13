@@ -1,8 +1,7 @@
 # 📝 FuncaptchaServer
 
-> 📝 基于🔗 [MagicalMadoka/funcaptcha-challenger](https://github.com/MagicalMadoka/funcaptcha-challenger)的图片识别服务器
 
-## 🔍️ **支持模型**
+## 🔍️ **Support Models**
 -  SUPPORTED MODELS:
 
 |                         |                         |                         |                         |
@@ -20,11 +19,10 @@
 
 - Funcaptcha其他类型欢迎PR.
 
-## 🐅 项目介绍
+## 🐅 Description
+### ⬇️ **Deployment**
 
-### ⬇️ **部署相关**
-
-- **📡 依赖安装**:
+- **📡 Installation**:
 
 ```bash
 pip install -r requirements.txt
